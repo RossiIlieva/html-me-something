@@ -1,0 +1,17 @@
+li.jobs{
+    background-color:yellow;
+    color:black;margin:10px 0 10px 0;
+    padding 20px;
+    width 200px;
+}
+div#div01{
+    border:1px red;
+    color:green;
+}
+img{
+    width: 25px;
+    height: 25px;
+}
+h2{
+    background-color:orange;
+}
